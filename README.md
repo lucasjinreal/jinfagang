@@ -2,7 +2,7 @@
 
 You know who I am and what I do.
 
-- Former autonomous Deeplearning && Perception specialist in Tencent and Didi;
+- Former autonomous Deeplearning && Perception specialist at AutoX (previously inter at Tencent and Didi), now back to Tencent in 2021;
 - Tech geek with some high visit rate products;
 - Author of many popular DL libs such as [alfred-py](https://pypi.org/project/alfred-py/) and [thor](https://github.com/jinfagang/thor);
 - Community owner and contributor of manaai;
