@@ -10,6 +10,8 @@ You know who I am and what I do.
 - You can find me via telegram @lucasjin (communications on AI and business are very welcome).
 
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jinfagang&theme=vue)
+
 
 [![jinfagang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinfagang)](https://github.com/anuraghazra/github-readme-stats)
 
